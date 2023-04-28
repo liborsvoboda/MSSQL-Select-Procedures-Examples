@@ -1,0 +1,8 @@
+open tvd.cz
+programator.tvd.cz
+akep5s6a
+cd /www/www/data/tenders
+prompt
+mput \\tvd-karatapp01\vzor\_firm\ftp\FILE\*.*
+delete Thumbs.db
+bye

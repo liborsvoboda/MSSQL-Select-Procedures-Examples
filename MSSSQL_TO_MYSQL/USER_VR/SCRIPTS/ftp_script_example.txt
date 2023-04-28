@@ -1,0 +1,13 @@
+open tvd.cz
+programator.tvd.cz
+akep5s6a
+cd /www/www/data/tenders
+put test.txt
+get /www/www/data/tenders/test.txt
+
+prompt
+mput \\tvd-karatapp01\vzor\_firm\ftp\FILE\*.*
+
+
+mkdir test
+bye
